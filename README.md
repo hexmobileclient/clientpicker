@@ -1,2 +1,2 @@
-# iosclientpickerhex.github.io
-the name says it all
+# clientpicker
+a client picker for ios
